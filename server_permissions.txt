@@ -1,0 +1,2 @@
+chgrp -R www-data /username/
+chmod -R 2750 /username/

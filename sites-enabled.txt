@@ -1,0 +1,18 @@
+Listen 80
+ServerName www.example.com
+DocumentRoot /www/example1
+
+NameVirtualHost 172.20.30.40
+
+<VirtualHost 172.20.30.40 172.20.30.50>
+DocumentRoot /www/example2
+ServerName www.example.org
+# ...
+</VirtualHost>
+
+<VirtualHost 172.20.30.40>
+DocumentRoot /www/example3
+ServerName www.example.net
+ServerAlias *.example.net
+# ...
+</VirtualHost>
