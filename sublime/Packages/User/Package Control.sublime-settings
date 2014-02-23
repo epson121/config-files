@@ -1,0 +1,23 @@
+{
+	"installed_packages":
+	[
+		"Additional PHP Snippets",
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"Block Cursor Everywhere",
+		"CTags",
+		"Display Functions (Java)",
+		"DocBlockr",
+		"Gist",
+		"Goto Documentation",
+		"OpenGL Shading Language (GLSL)",
+		"Package Control",
+		"Phix Color Scheme",
+		"PHP Completions Kit",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"Theme - Phoenix",
+		"TrailingSpaces"
+	]
+}

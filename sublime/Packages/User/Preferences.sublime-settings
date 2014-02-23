@@ -1,0 +1,19 @@
+{
+	"auto_complete_selector": "source, text",
+	"color_scheme": "Packages/Phix Color Scheme/Phix Dark.tmTheme",
+	"font": "Ubuntu Mono",
+	"font_size": 8,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"phoenix_color_blue": true,
+	"phoenix_color_expanded_folder": true,
+	"phoenix_dirty_bottom_bar": true,
+	"phoenix_dirty_bottom_bar_red": true,
+	"phoenix_sidebar_tree_small": true,
+	"phoenix_solid_current_tab": true,
+	"theme": "Phoenix Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trainling_white_space_on_save": true
+}

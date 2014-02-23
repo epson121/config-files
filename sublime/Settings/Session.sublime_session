@@ -1,0 +1,3280 @@
+{
+	"folder_history":
+	[
+		"/var/www/magento-playground/magento_tutsplus",
+		"/var/www/magento",
+		"/home/luka/downloads/boris/lib",
+		"/var/www/Lrrrr",
+		"/var/www/circular_table",
+		"/var/www",
+		"/home/luka",
+		"/home/luka/documents/dev/ruby/projects/Projects",
+		"/home/luka/documents/faks/III/RG/Labs/lab7",
+		"/home/luka/documents/faks/III/RG/Labs/lab6",
+		"/home/luka/documents/faks/III/RG/Labs/project/final/rg/source",
+		"/var/www/rg",
+		"/home/luka/documents/faks/III/RG/Labs/project",
+		"/var/www/Lrrrr/apps/circular_table",
+		"/home/luka/documents/dev/ruby/projects/Projects/Text/text_unique_key_generator",
+		"/home/luka/documents/dev/ruby/projects/Projects/Text/text_text_editor",
+		"/home/luka/documents/dev/ruby/projects/Projects/Numbers/numbers_alarm_clock",
+		"/home/luka/documents/dev/BEST code/BCC4/MovieMachine",
+		"/var/www/modern-business",
+		"/var/www/jquery-parallax-1.1.3",
+		"/home/luka/documents/faks/III/RG/Labs/midterm2",
+		"/home/luka/documents/faks/III/RG/Labs/lab9",
+		"/home/luka/documents/faks/III/RG/Labs/lab8",
+		"/var/www/lrr",
+		"/home/luka/documents/dev/lrrrr",
+		"/home/luka/documents/faks/III/RG/Labs/lab10",
+		"/home/luka/documents/dev/project-Euler",
+		"/home/luka/downloads/public_html",
+		"/home/luka/documents/dev/lrrrr/root@146.185.177.64",
+		"/home/luka/documents/dev/lrrrr/js",
+		"/home/luka/documents/dev/lrrrr/img",
+		"/home/luka/documents/dev/lrrrr/css",
+		"/home/luka/documents/faks/III/RG/Labs/lab7/rajcevic",
+		"/media/D414DDF114DDD718/dev_w/lectures/ProgLang/w8",
+		"/home/luka/documents/faks/III/RG/Labs/lab5",
+		"/home/luka/documents/dev/php/php_mail_spoofer",
+		"/home/luka/documents/faks/III/RG/Labs/midterm1",
+		"/home/luka/documents/faks/III/RG/Labs/lab4",
+		"/home/luka/documents/faks/III/RG/Labs/lab3",
+		"/media/D414DDF114DDD718/dev_w/lectures/ProgLang/w2",
+		"/media/D414DDF114DDD718/dev_w/lectures/ProgLang/w3",
+		"/home/luka/documents/faks/III/RG/Labs/lab2/rajcevic",
+		"/home/luka/documents/faks/III/RG/Labs/lab2",
+		"/home/luka/documents/dev/ruby/projects/Projects/Numbers/numbers_city_distance",
+		"/media/D414DDF114DDD718/dev_w/lectures/ProgLang/w1",
+		"/home/luka/documents/faks/III/RG/Labs/lab1",
+		"/home/luka/documents/dev/javascript/emberjs/Cons/Contacts",
+		"/home/luka/documents/dev/javascript/emberjs/starter-kit-1.0.0",
+		"/home/luka/documents/dev/ruby/projects/Projects/Numbers/numbers_unit_converter",
+		"/home/luka/documents/dev/ruby/projects/Projects/Numbers/numbers_tax_calculator",
+		"/home/luka/documents/dev/javascript/emberjs/Cons",
+		"/home/luka/documents/dev/javascript/emberjs/Contacts/Contacts",
+		"/home/luka/documents/dev/javascript/emberjs/contact-list",
+		"/home/luka/documents/dev/javascript/emberjs/ember-markdown",
+		"/home/luka/documents/dev/github_source/vanguard",
+		"/home/luka/documents/dev/github_source/virtus",
+		"/home/luka/documents/dev/github_source/ice_nine",
+		"/home/luka/.rvm/gems/ruby-2.0.0-p247/gems/coveralls-0.7.0",
+		"/home/luka/documents/dev/github_source/celluloid",
+		"/home/luka/documents/dev/javascript/lightcycles/html5-lightcycles",
+		"/home/luka/documents/dev/javascript/html5-lightcycles",
+		"/home/luka/documents/dev/eclipse/forumhr_mobile",
+		"/home/luka/documents/dev/eclipse/forumhr_mobile/TopicsActivity",
+		"/media/D414DDF114DDD718/SwipeView"
+	],
+	"last_window_id": 192,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pro",
+						"products"
+					],
+					[
+						"pr",
+						"products"
+					],
+					[
+						"endfor",
+						"T_ENDFOREACH"
+					],
+					[
+						"getCon",
+						"getConfigurableProducts"
+					],
+					[
+						"require",
+						"require_once"
+					],
+					[
+						"Tuts",
+						"tutsplus_demo"
+					],
+					[
+						"getC",
+						"getCustomerName"
+					],
+					[
+						"strto",
+						"strtoupper"
+					],
+					[
+						"Mage_Cus",
+						"Mage_Customer_Helper_Data"
+					],
+					[
+						"Mage_Ca",
+						"Mage_Catalog_Model_Category"
+					],
+					[
+						"Tut",
+						"TutsPlus_Demo_Helper_Customer"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"Tuts_",
+						"TutsPlus_Demo_Model_Product"
+					],
+					[
+						"Tu",
+						"TutsPlus_Demo_Model"
+					],
+					[
+						"var",
+						"var_dump"
+					],
+					[
+						"Tra",
+						"Training_Animal"
+					],
+					[
+						"Ma",
+						"Mage_Adminhtml"
+					],
+					[
+						"par",
+						"parse"
+					],
+					[
+						"_",
+						"_construct"
+					],
+					[
+						"tra",
+						"training/animal"
+					],
+					[
+						"childre",
+						"childrenIds"
+					],
+					[
+						"chil",
+						"children"
+					],
+					[
+						"categ",
+						"category"
+					],
+					[
+						"get",
+						"gethostname"
+					],
+					[
+						"dire",
+						"directionCounter"
+					],
+					[
+						"nex",
+						"next_px"
+					],
+					[
+						"ne",
+						"next_py"
+					],
+					[
+						"ch",
+						"changeDirection"
+					],
+					[
+						"generate",
+						"generateHtmlTable"
+					],
+					[
+						"th",
+						"this"
+					],
+					[
+						"inc",
+						"incl	include …"
+					],
+					[
+						"new",
+						"new_list"
+					],
+					[
+						"Sca",
+						"ScanPort"
+					],
+					[
+						"end",
+						"end_port"
+					],
+					[
+						"star",
+						"start_port"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"mode",
+						"modes"
+					],
+					[
+						"cur",
+						"cur_mode"
+					],
+					[
+						"wait",
+						"waitKey"
+					],
+					[
+						"C",
+						"COLOR_BGR2GRAY"
+					],
+					[
+						"dst",
+						"dst_smaller"
+					],
+					[
+						"te",
+						"textarea"
+					],
+					[
+						"su",
+						"suggestions_counter"
+					],
+					[
+						"Q",
+						"query"
+					],
+					[
+						"q",
+						"query"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"form",
+						"format_string"
+					],
+					[
+						"res",
+						"result"
+					],
+					[
+						"me1",
+						"me18"
+					],
+					[
+						"me",
+						"me16"
+					],
+					[
+						"sc",
+						"scroll"
+					],
+					[
+						"au",
+						"auto"
+					],
+					[
+						"nav",
+						"navbar-inverse"
+					],
+					[
+						"xx",
+						"xx"
+					],
+					[
+						"cu",
+						"cubeSize"
+					],
+					[
+						"GL_L",
+						"GL_LIGHT0"
+					],
+					[
+						"el",
+						"elliptic_cylinder"
+					],
+					[
+						"marg",
+						"margin-top"
+					],
+					[
+						"top",
+						"topbar"
+					],
+					[
+						"cyl",
+						"cylinderSize"
+					],
+					[
+						"cy",
+						"cylinderSize"
+					],
+					[
+						"glP",
+						"glPushMatrix"
+					],
+					[
+						"aut",
+						"autor"
+					],
+					[
+						"auto",
+						"autor_knjiga"
+					],
+					[
+						"N",
+						"NULL"
+					],
+					[
+						"sh",
+						"shrinkCoeff"
+					],
+					[
+						"h",
+						"heightCoeff"
+					],
+					[
+						"he",
+						"height"
+					],
+					[
+						"hei",
+						"heightCoeff"
+					],
+					[
+						"rad",
+						"radCoeff"
+					],
+					[
+						"curre",
+						"currentTimeMillis"
+					],
+					[
+						"day",
+						"dayCounter"
+					],
+					[
+						"is",
+						"isLeapYear"
+					],
+					[
+						"da",
+						"daysInCurrentMonth"
+					],
+					[
+						"le",
+						"leapYearCounter"
+					],
+					[
+						"sun",
+						"sundaysCounter"
+					],
+					[
+						"pa",
+						"pairs"
+					],
+					[
+						"max",
+						"maxRootLeaf"
+					],
+					[
+						"tr",
+						"trav"
+					],
+					[
+						"print",
+						"printPaths"
+					],
+					[
+						"node",
+						"node"
+					],
+					[
+						"so",
+						"so_far"
+					],
+					[
+						"ten",
+						"tenths"
+					],
+					[
+						"num",
+						"num_to_words"
+					],
+					[
+						"tem",
+						"temp_c"
+					],
+					[
+						"maxS",
+						"maxSequenceLength"
+					],
+					[
+						"re",
+						"result"
+					],
+					[
+						"ca",
+						"carry"
+					],
+					[
+						"temp",
+						"temporarySum"
+					],
+					[
+						"numb",
+						"number"
+					],
+					[
+						"S",
+						"System"
+					],
+					[
+						"nu",
+						"numOfDigits"
+					],
+					[
+						"ma",
+						"matrixNumber"
+					],
+					[
+						"row",
+						"rowCounter"
+					],
+					[
+						"di",
+						"diagonalLeftToRight"
+					],
+					[
+						"hor",
+						"horizontalProduct"
+					],
+					[
+						"fo",
+						"fourth"
+					],
+					[
+						"matri",
+						"matrixNumber"
+					],
+					[
+						"matr",
+						"matrixNumber"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"geo",
+						"geo_val"
+					],
+					[
+						"inter",
+						"intersectPoint"
+					],
+					[
+						"intes",
+						"intersectVerticalLine"
+					],
+					[
+						"No",
+						"NoPoints"
+					],
+					[
+						"real",
+						"real_close"
+					],
+					[
+						"eval",
+						"eval_prog"
+					],
+					[
+						"Line",
+						"LineSegment"
+					],
+					[
+						"ran",
+						"randomIndex"
+					],
+					[
+						"cone",
+						"cone_height"
+					],
+					[
+						"gl",
+						"glColor3d"
+					],
+					[
+						"YM",
+						"YMAX"
+					],
+					[
+						"XM",
+						"XMAX"
+					],
+					[
+						"core",
+						"Corel_length"
+					],
+					[
+						"co",
+						"corel_supported"
+					],
+					[
+						"rot",
+						"rotirajZ(double kut)"
+					],
+					[
+						"st",
+						"stozac(double r, double h, int n)"
+					],
+					[
+						"elip",
+						"elipse"
+					],
+					[
+						"ro",
+						"rotirajX(double kut)"
+					],
+					[
+						"roi",
+						"rotirajZ(double kut)"
+					],
+					[
+						"rotiraj",
+						"rotirajX(double kut)"
+					],
+					[
+						"eli",
+						"elipse"
+					],
+					[
+						"po",
+						"pomakni(double px, double py)"
+					],
+					[
+						"valjak",
+						"valjak_drawer"
+					],
+					[
+						"valj",
+						"valjak_drawer"
+					],
+					[
+						"sto",
+						"stozac_drawer"
+					],
+					[
+						"o",
+						"ox"
+					],
+					[
+						"x",
+						"x"
+					],
+					[
+						"kugla",
+						"kugla_drawer"
+					]
+				]
+			},
+			"build_system": "Packages/Ruby/Ruby.sublime-build",
+			"command_palette":
+			{
+				"height": 252.0,
+				"selected_items":
+				[
+					[
+						"trail",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"gist",
+						"Gist: Create Public Gist"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"mage",
+						"MagentoIntel: Goto Class"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"trai",
+						"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"php",
+						"PHPIntel: Scan Project"
+					],
+					[
+						"PhpI",
+						"PHPIntel: Scan Project"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Color Picker: Insert Color"
+					]
+				],
+				"width": 705.0
+			},
+			"console":
+			{
+				"height": 118.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/media/D414DDF114DDD718/down/The.Hunger.Games.BDRip.XviD-COCAIN/the.hunger.games.bdrip.xvid-cocain.nfo",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/Block/Configurable.php",
+				"/var/www/magento/app/design/frontend/default/tutsplus/layout/tutsplus.xml",
+				"/var/www/magento/app/design/frontend/default/tutsplus/template/tutsplus/configurable.phtml",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/Helper/Data.php",
+				"/var/www/magento/app/design/frontend/default/tutsplus/local.xml",
+				"/var/www/magento/app/code/core/Mage/Page/Block/Html/Head.php",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/etc/config.xml",
+				"/var/www/magento/app/design/frontend/default/tutsplus/template/local.xml",
+				"/var/www/magento/app/design/frontend/default/tutsplus/layout/local.xml",
+				"/var/www/magento/app/design/frontend/default/tutsplus/templates/tutsplus/configurable.phtml",
+				"/var/www/magento/app/design/frontend/default/tutsplus/templates/local.xml",
+				"/var/www/magento/app/design/frontend/base/default/layout/tag.xml",
+				"/var/www/magento/app/code/core/Mage/Core/Block/Template.php",
+				"/var/www/magento/app/design/frontend/base/default/layout/page.xml",
+				"/var/www/magento/app/design/frontend/base/default/template/page/html/header.phtml",
+				"/var/www/magento/app/code/core/Mage/Page/Block/Html/Header.php",
+				"/var/www/magento/app/design/frontend/base/default/template/page/3columns.phtml",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/controllers/IndexController.php",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/controllers/ProductController.php",
+				"/var/www/magento/test.php",
+				"/var/www/magento/lib/Varien/Object.php",
+				"/var/www/magento/app/code/core/Mage/Page/Block/Html.php",
+				"/var/www/magento/app/design/frontend/base/default/layout/customer.xml",
+				"/var/www/magento/app/code/core/Mage/Core/Controller/Front/Action.php",
+				"/var/www/magento/app/code/core/Mage/Customer/controllers/AccountController.php",
+				"/var/www/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php",
+				"/var/www/magento/app/code/core/Mage/Cms/Model/Mysql4/Block.php",
+				"/var/www/magento/app/code/core/Mage/Cms/Model/Resource/Block.php",
+				"/var/www/magento/app/code/core/Mage/Cms/Model/Block.php",
+				"/var/www/magento/app/code/core/Mage/Cms/etc/config.xml",
+				"/var/www/magento/app/code/core/Mage/Api2/Model/Acl/Global/Rule/Tree.php",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/Model/Observer.php",
+				"/var/www/magento/var/log/customer.log",
+				"/var/www/magento/app/code/local/TutsPlus/Customer/Helper/Data.php",
+				"/var/www/magento/app/code/core/Mage/Customer/Helper/Data.php",
+				"/var/www/magento/app/code/core/Mage/Core/Helper/Abstract.php",
+				"/var/www/magento/app/code/local/TutsPlus/Customer/etc/config.xml",
+				"/var/www/magento/app/code/local/TutsPlus/Catalog/etc/config.xml",
+				"/var/www/magento/app/code/local/TutsPlus/Catalog/Model/Category.php",
+				"/var/www/magento/app/etc/modules/TutsPlus_Customer.xml",
+				"/var/www/magento/app/etc/modules/TutsPlus_Catalog.xml",
+				"/var/www/magento/app/etc/modules/TutsPlus_Demo.xml",
+				"/var/www/magento/app/Mage.php",
+				"/var/www/magento/app/code/local/Mage/Catalog/Model/Category.php",
+				"/var/www/magento/app/code/local/Catalog/Model/Category.php",
+				"/var/www/magento/app/code/core/Mage/Catalog/Model/Category.php",
+				"/var/www/magento/lib/Varien/Autoload.php",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/Model/Product.php",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/Helper/Customer.php",
+				"/var/www/magento/index.php",
+				"/var/www/magento/app/code/core/Mage/Catalog/etc/config.xml",
+				"/var/www/magento/app/code/core/Mage/Customer/Model/Session.php",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/etc",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/etc/",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/Helper",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/sql",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/controllers",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/Product.php",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/Blocks",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/Model",
+				"/home/luka/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/var/www/magento/app/etc/modules/Training_Animal.xml",
+				"/var/www/magento/app/code/core/Mage/Widget/etc/config.xml",
+				"/var/www/magento/app/code/local/Training/Animal/controllers/adminhtml/AnimalController.php",
+				"/var/www/magento/app/code/core/Mage/Poll/etc/system.xml",
+				"/home/luka/documents/SQUAT_CHALLENGE.txt",
+				"/var/www/magento/app/code/community/Cm/RedisSession/Model/Session.php",
+				"/var/www/magento/app/code/local/Training/Animal/etc/config.xml",
+				"/var/www/magento/app/code/local/Training/Animal/controllers/adminhtml/IndexController.php",
+				"/var/www/magento/app/code/core/Mage/Core/Model/Resource/Setup.php",
+				"/var/www/magento/app/code/core/Mage/CatalogInventory/sql/cataloginventory_setup/install-1.6.0.0.php",
+				"/var/www/magento/app/code/local/Test/Module/controllers/RenderController.php",
+				"/var/www/magento/app/code/core/Mage/Core/Model/Layout.php",
+				"/home/luka/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/var/www/magento/app/code/core/Mage/Adminhtml/controllers/SalesController.php",
+				"/var/www/magento/app/code/core/Mage/Adminhtml/controllers/System/Config/System/StorageController.php",
+				"/var/www/magento/app/code/core/Mage/Admin/Model/Session.php",
+				"/var/www/magento/app/code/core/Mage/Widget/Block/Interface.php",
+				"/var/www/magento/app/code/core/Mage/Core/Block/Abstract.php",
+				"/var/www/magento/app/code/core/Mage/Eav/Model/Entity/Setup.php",
+				"/var/www/magento/app/code/core/Mage/Eav/Model/Attribute.php",
+				"/var/www/magento/app/code/core/Mage/Bundle/Model/Product/Attribute/Source/Price/View.php",
+				"/var/www/magento/.tags",
+				"/var/www/magento/app/code/core/Mage/Api2/Model/Resource/Setup.php",
+				"/home/luka/.config/sublime-text-2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/var/www/magento/app/etc/local.xml",
+				"/var/www/magento/app/etc/modules/Cm_RedisSession.xml",
+				"/var/www/magento/app/code/core/Mage/Core/Model/Store.php",
+				"/var/www/magento/app/code/local/Training/Animal/Model/Animal.php",
+				"/home/luka/.config/sublime-text-2/Packages/CTags/CTags.sublime-settings",
+				"/var/www/magento/cron.php",
+				"/var/www/magento/api.php",
+				"/var/www/magento/app/code/local/Training/Animal/Model/Mysql4/Animal.php",
+				"/var/www/magento/app/code/local/Test/Module/etc/config.xml",
+				"/var/www/magento/app/code/local/My/Mod/etc/config.xml",
+				"/home/luka/.config/sublime-text-2/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+				"/home/luka/.config/sublime-text-2/Packages/AdvancedNewFile/Default (Linux).sublime-keymap",
+				"/home/luka/.config/sublime-text-2/Packages/AdvancedNewFile/README.md",
+				"/home/luka/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/luka/.config/sublime-text-2/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/var/www/magento/test2.php",
+				"/var/www/magento/shell/indexer.php",
+				"/var/www/magento/app/code/core/Mage/Adminhtml/Block/Newsletter/Template/Edit/Form.php",
+				"/home/luka/.config/sublime-text-2/Packages/CTags/Default.sublime-keymap",
+				"/home/luka/.config/sublime-text-2/Packages/Alignment/Default (Linux).sublime-keymap",
+				"/var/www/magento/install.php",
+				"/home/luka/.config/sublime-text-2/Packages/User/trailing_spaces.sublime-settings",
+				"/home/luka/.config/sublime-text-2/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+				"/var/www/magento/app/code/local/Training/Animal/sql/training_animal_setup/Mysql4-install-0.1.1.php",
+				"/var/www/magento/app/code/local/Training/Animal/sql/training_animal_setup/Mysql4-install-0.1.1asd.php",
+				"/var/www/magento/app/code/local/Training/Animal/sql/training_animal_setup/Mysql4-install-0.1.0.php",
+				"/var/www/magento/lib/Varien/Data/Collection/Db.php",
+				"/var/www/magento/app/code/local/Training/Animal/Model/Mysql4/Animal/Collection.php",
+				"/var/www/magento/app/code/local/Test/Module/controllers/ModelsController.php",
+				"/var/www/magento/app/etc/modules/First_Module.xml",
+				"/home/luka/.config/sublime-text-2/Packages/SublimePHPIntel/SublimePHPIntel.sublime-settings",
+				"/var/www/magento/app/code/community/Phoenix/Moneybookers/Block/Form.php",
+				"/var/www/magento/app/code/community/Phoenix/Moneybookers/etc/config.xml",
+				"/var/www/magento/app/etc/modules/Mage_All.xml",
+				"/var/www/magento/app/code/core/Mage/Adminhtml/etc/config.xml",
+				"/var/www/magento/app/code/community/First/Module/etc/config.xml",
+				"/var/www/magento/app/code/core/Mage/Payment/Block/Form.php",
+				"/var/www/magento/skin/frontend/base/default/css/styles.css",
+				"/var/www/magento/app/code/local/First/Module/etc/config.xml",
+				"/var/www/magento/app/code/core/Mage/Cms/controllers/IndexController.php",
+				"/var/www/magento/app/code/core/Mage/Catalog/Model/Product/Website.php",
+				"/var/www/magento/skin/frontend/base/default/js/opcheckout.js"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"update",
+					"_customer",
+					"catalog",
+					"isAllowed",
+					"getFlatColums",
+					"key",
+					"auto",
+					"test_module",
+					"printLo",
+					"print",
+					"getChildren",
+					"category",
+					"function",
+					"= ",
+					"function",
+					"());\n",
+					"{\n",
+					"_under",
+					"_getData",
+					"getName",
+					"getInfoInstance",
+					"app(",
+					"getStore(",
+					"app",
+					"isInsta",
+					"versio",
+					"phpVer",
+					"phpversion",
+					"<!",
+					"		   		",
+					"display_err",
+					"\n	",
+					"AA",
+					":\n",
+					"”",
+					"“",
+					"mod",
+					"modes",
+					"M_PI",
+					"title-area",
+					"top-bar",
+					"crveno",
+					"20",
+					"}",
+					"{",
+					"66",
+					"87",
+					"border",
+					"FFFFFF",
+					"ffffff",
+					"border",
+					"backgrou",
+					"glC",
+					"glCo",
+					"glC",
+					"tekstura",
+					"color",
+					"fairly",
+					"open",
+					"suggestion",
+					"ctrl",
+					"Iconify",
+					"A S",
+					"A+",
+					"mini",
+					"min",
+					"ctrl+h",
+					"brand",
+					"navbar",
+					"navbarS",
+					"navbar",
+					"form",
+					"<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>Ember Starter Kit</title>\n    <link rel=\"stylesheet\" href=\"css/bootstrap.css\">\n    <link rel=\"stylesheet\" href=\"css/normalize.css\">\n    <link rel=\"stylesheet\" href=\"css/style.css\">\n  </head>\n\n  <body>\n\n    <form class=\"form-horizontal\" role=\"form\">\n      <div class=\"form-group\">\n        <label for=\"inputEmail1\" class=\"col-lg-2 control-label\">Email</label>\n        <div class=\"col-lg-10\">\n          <input type=\"email\" class=\"form-control\" id=\"inputEmail1\" placeholder=\"Email\">\n        </div>\n      </div>\n      <div class=\"form-group\">\n        <label for=\"inputName\" class=\"col-lg-2 control-label\">Name</label>\n        <div class=\"col-lg-10\">\n          <input type=\"password\" class=\"form-control\" id=\"inputPassword1\" placeholder=\"Password\">\n        </div>\n      </div>\n      <div class=\"form-group\">\n        <div class=\"col-lg-offset-2 col-lg-10\">\n          <div class=\"checkbox\">\n            <label>\n              <input type=\"checkbox\"> Remember me\n            </label>\n          </div>\n        </div>\n      </div>\n      <div class=\"form-group\">\n        <div class=\"col-lg-offset-2 col-lg-10\">\n          <button type=\"submit\" class=\"btn btn-default\">Sign in</button>\n        </div>\n      </div>\n    </form>\n\n    <script src=\"js/libs/jquery-1.9.1.js\"></script>\n    <script src=\"js/libs/handlebars-1.0.0.js\"></script>\n    <script src=\"js/libs/ember-1.0.0.js\"></script>\n    <script src=\"http://cdnjs.cloudflare.com/ajax/libs/showdown/0.3.1/showdown.min.js\"></script>\n    <script src=\"js/app.js\"></script>\n    <script src=\"http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.1.0/moment.min.js\"></script>\n\n  </body>\n</html>",
+					"Name",
+					"brand",
+					"navbar",
+					"Freezer",
+					"recursion_guard",
+					"},\n",
+					"end",
+					"line",
+					"getContext",
+					";\n",
+					"stop",
+					"newGame",
+					"stop",
+					"start_game",
+					"profile"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"training_animal",
+					"\"",
+					"PI",
+					")",
+					"("
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 29.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 398.0
+			},
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"magecoreblocktemplate",
+						"app/code/core/Mage/Core/Block/Template.php"
+					],
+					[
+						"accountcontroller",
+						"app/code/core/Mage/Customer/controllers/AccountController.php"
+					],
+					[
+						"varien",
+						"lib/Varien/Object.php"
+					],
+					[
+						"varie",
+						"app/code/core/Mage/Core/Model/Session/Abstract/Varien.php"
+					],
+					[
+						"mage",
+						"app/Mage.php"
+					],
+					[
+						"catalogetcconfig",
+						"app/code/core/Mage/Catalog/etc/config.xml"
+					],
+					[
+						"magecustomermodelsession",
+						"app/code/core/Mage/Customer/Model/Session.php"
+					],
+					[
+						"libvarienau",
+						"lib/Varien/Autoload.php"
+					],
+					[
+						"magecoremodelsessionabstractvar",
+						"app/code/core/Mage/Core/Model/Session/Abstract/Varien.php"
+					],
+					[
+						"mysql",
+						"app/code/core/Mage/CatalogInventory/sql/cataloginventory_setup/install-1.6.0.0.php"
+					],
+					[
+						"magecoreresourceset",
+						"app/code/core/Mage/Core/Model/Resource/Setup.php"
+					],
+					[
+						"appcodecoremageeavmodelattr",
+						"app/code/core/Mage/Eav/Model/Attribute.php"
+					],
+					[
+						"mageeavmodelentityset",
+						"app/code/core/Mage/Eav/Model/Entity/Setup.php"
+					],
+					[
+						"anima",
+						"app/code/local/Training/Animal/Model/Mysql4/Animal.php"
+					],
+					[
+						"modulescm",
+						"app/etc/modules/Cm_RedisSession.xml"
+					],
+					[
+						"appetclo",
+						"app/etc/local.xml"
+					],
+					[
+						"test",
+						"test.php"
+					],
+					[
+						"appcodelocal",
+						"app/code/local/Test/Module/etc/config.xml"
+					],
+					[
+						"te",
+						"test.php"
+					],
+					[
+						"appcodelocalanim",
+						"app/code/local/Training/Animal/Model/Animal.php"
+					],
+					[
+						"tes",
+						"test.php"
+					],
+					[
+						"animalcolle",
+						"app/code/local/Training/Animal/Model/Mysql4/Animal/Collection.php"
+					],
+					[
+						"animal",
+						"app/code/local/Training/Animal/Model/Animal.php"
+					],
+					[
+						"varien/data/coll",
+						"lib/Varien/Data/Collection/Db.php"
+					],
+					[
+						"mage/catalog/model/category",
+						"app/code/core/Mage/Catalog/Model/Category.php"
+					],
+					[
+						"varieno",
+						"lib/Varien/Object.php"
+					],
+					[
+						"mage/core/model/store",
+						"app/code/core/Mage/Core/Model/Store.php"
+					],
+					[
+						"index",
+						"index.php"
+					],
+					[
+						"sty",
+						"skin/frontend/default/modern/css/styles.css"
+					],
+					[
+						"base/default/css",
+						"app/design/frontend/base/default/template/customer/form/changepassword.phtml"
+					],
+					[
+						"indexc",
+						"app/code/core/Mage/Cms/controllers/IndexController.php"
+					],
+					[
+						"controller",
+						"app/code/core/Mage/Adminhtml/controllers/IndexController.php"
+					],
+					[
+						"contr",
+						"js/scriptaculous/controls.js"
+					],
+					[
+						"db.",
+						"lib/Varien/Data/Collection/Db.php"
+					],
+					[
+						"autoload",
+						"lib/Varien/Autoload.php"
+					],
+					[
+						"auto",
+						"lib/Varien/Autoload.php"
+					],
+					[
+						"apps/inde",
+						"apps/circular_table/index.html"
+					],
+					[
+						"inde",
+						"index.html"
+					],
+					[
+						"js",
+						"js/app.js"
+					],
+					[
+						"p",
+						"table.php"
+					],
+					[
+						"re",
+						"README.md"
+					],
+					[
+						"",
+						"haarcascade_eye.xml"
+					],
+					[
+						"nav",
+						"nav-bar.html"
+					],
+					[
+						"html",
+						"apps/rg_openCV/usage.html"
+					],
+					[
+						"apps/rg_opencv/inde",
+						"apps/rg_openCV/index.html"
+					],
+					[
+						"gr",
+						"graphics.php"
+					],
+					[
+						"face",
+						"face_detection.py"
+					],
+					[
+						"cam",
+						"cam_effects.py"
+					],
+					[
+						"link",
+						"links.html"
+					],
+					[
+						"usa",
+						"usage.html"
+					],
+					[
+						"st",
+						"style/style.css"
+					],
+					[
+						"gaus",
+						"opencv/samples/python2/gaussian_mix.py"
+					],
+					[
+						"cpp",
+						"contours1.cpp"
+					],
+					[
+						"php",
+						"table.php"
+					],
+					[
+						"ho",
+						"css/hover-min.css"
+					],
+					[
+						"css",
+						"css/hover-min.css"
+					],
+					[
+						"ind",
+						"index.html"
+					],
+					[
+						"_mo",
+						"app/views/movies/_movies.html.erb"
+					],
+					[
+						"app",
+						"app/assets/javascripts/application.js"
+					],
+					[
+						"movi",
+						"app/models/movie.rb"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"rou",
+						"config/routes.rb"
+					],
+					[
+						"view",
+						"app/views/movies/view.html.erb"
+					],
+					[
+						"con",
+						"app/controllers/movies_controller.rb"
+					],
+					[
+						"about",
+						"about.html"
+					],
+					[
+						"port",
+						"portfolio-item.html"
+					],
+					[
+						"faq",
+						"faq.html"
+					],
+					[
+						"abou",
+						"about.html"
+					],
+					[
+						"he",
+						"header.html"
+					],
+					[
+						"head",
+						"header.html"
+					],
+					[
+						"na",
+						"nav-bar.html"
+					],
+					[
+						"op",
+						"open_gl.php"
+					],
+					[
+						"gra",
+						"graphics.php"
+					],
+					[
+						"em",
+						"apps/ember-markdown/index.html"
+					],
+					[
+						"s",
+						"shapes.h"
+					],
+					[
+						"ap",
+						"rg/applets.php"
+					],
+					[
+						"foun",
+						"css/foundation.css"
+					],
+					[
+						"jana",
+						"jana.c"
+					],
+					[
+						"in",
+						"index.html"
+					],
+					[
+						"ide",
+						"index.html"
+					],
+					[
+						"dr",
+						"drvo_svjetlo.c"
+					],
+					[
+						"e",
+						"Euler10.java"
+					],
+					[
+						"18",
+						"18.rb"
+					],
+					[
+						"eu",
+						"Euler11.java"
+					],
+					[
+						"txt",
+						"matrix.txt"
+					],
+					[
+						"9",
+						"Euler9.java"
+					],
+					[
+						"sem",
+						"seminari.html"
+					],
+					[
+						"sha",
+						"shapes.h"
+					],
+					[
+						"sphe",
+						"sphere.c"
+					],
+					[
+						"anemo",
+						"anemometer.c"
+					],
+					[
+						"spe",
+						"sphere.c"
+					],
+					[
+						"anem",
+						"anemometer.c"
+					],
+					[
+						"per",
+						"Persp.java"
+					],
+					[
+						"m",
+						"MT2D.java"
+					],
+					[
+						"gks",
+						"GKS.java"
+					],
+					[
+						"gk",
+						"GKS.java"
+					],
+					[
+						"ku",
+						"Kugla.java"
+					],
+					[
+						"pe",
+						"Persp.java"
+					],
+					[
+						"databa",
+						"config/database.yml"
+					],
+					[
+						"cube",
+						"CubeRotationOverLine.java"
+					],
+					[
+						"or",
+						"Ortho.java"
+					],
+					[
+						"mt3",
+						"MT3D.java"
+					],
+					[
+						"cu",
+						"CubeRotation.java"
+					],
+					[
+						"jan",
+						"JAnimacija2.java"
+					],
+					[
+						"gks_z",
+						"GKS_zrcaljenje.java"
+					],
+					[
+						"gkse",
+						"GKSElipse.java"
+					],
+					[
+						"mt",
+						"MT2D.java"
+					],
+					[
+						".ja",
+						"GKSElipse_mult.java"
+					],
+					[
+						"zrca",
+						"GKS_zrcaljenje.java"
+					],
+					[
+						"ht",
+						"elipse.html"
+					],
+					[
+						"el",
+						"Elipse.java"
+					],
+					[
+						"_",
+						"app/views/layouts/_head.html.erb"
+					],
+					[
+						"sinu",
+						"sinus.html"
+					],
+					[
+						"para",
+						"parabola.html"
+					],
+					[
+						".html",
+						"mreza.html"
+					],
+					[
+						"gksp",
+						"GKSParabola.java"
+					],
+					[
+						"sin",
+						"Sinus.java"
+					],
+					[
+						"gem",
+						"rails/Contacts/Gemfile"
+					],
+					[
+						"boot",
+						"css/bootstrap.css"
+					],
+					[
+						"no",
+						"css/normalize.css"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 274.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pro",
+						"products"
+					],
+					[
+						"pr",
+						"products"
+					],
+					[
+						"endfor",
+						"T_ENDFOREACH"
+					],
+					[
+						"getCon",
+						"getConfigurableProducts"
+					],
+					[
+						"require",
+						"require_once"
+					],
+					[
+						"Tuts",
+						"tutsplus_demo"
+					],
+					[
+						"getC",
+						"getCustomerName"
+					],
+					[
+						"strto",
+						"strtoupper"
+					],
+					[
+						"Mage_Cus",
+						"Mage_Customer_Helper_Data"
+					],
+					[
+						"Mage_Ca",
+						"Mage_Catalog_Model_Category"
+					],
+					[
+						"Tut",
+						"TutsPlus_Demo_Helper_Customer"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"Tuts_",
+						"TutsPlus_Demo_Model_Product"
+					],
+					[
+						"Tu",
+						"TutsPlus_Demo_Model"
+					],
+					[
+						"var",
+						"var_dump"
+					],
+					[
+						"Tra",
+						"Training_Animal"
+					],
+					[
+						"Ma",
+						"Mage_Adminhtml"
+					],
+					[
+						"par",
+						"parse"
+					],
+					[
+						"_",
+						"_construct"
+					],
+					[
+						"tra",
+						"training/animal"
+					],
+					[
+						"childre",
+						"childrenIds"
+					],
+					[
+						"chil",
+						"children"
+					],
+					[
+						"categ",
+						"category"
+					],
+					[
+						"get",
+						"gethostname"
+					],
+					[
+						"dire",
+						"directionCounter"
+					],
+					[
+						"nex",
+						"next_px"
+					],
+					[
+						"ne",
+						"next_py"
+					],
+					[
+						"ch",
+						"changeDirection"
+					],
+					[
+						"generate",
+						"generateHtmlTable"
+					],
+					[
+						"th",
+						"this"
+					],
+					[
+						"inc",
+						"incl	include …"
+					],
+					[
+						"new",
+						"new_list"
+					],
+					[
+						"Sca",
+						"ScanPort"
+					],
+					[
+						"end",
+						"end_port"
+					],
+					[
+						"star",
+						"start_port"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"mode",
+						"modes"
+					],
+					[
+						"cur",
+						"cur_mode"
+					],
+					[
+						"wait",
+						"waitKey"
+					],
+					[
+						"C",
+						"COLOR_BGR2GRAY"
+					],
+					[
+						"dst",
+						"dst_smaller"
+					],
+					[
+						"te",
+						"textarea"
+					],
+					[
+						"su",
+						"suggestions_counter"
+					],
+					[
+						"Q",
+						"query"
+					],
+					[
+						"q",
+						"query"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"form",
+						"format_string"
+					],
+					[
+						"res",
+						"result"
+					],
+					[
+						"me1",
+						"me18"
+					],
+					[
+						"me",
+						"me16"
+					],
+					[
+						"sc",
+						"scroll"
+					],
+					[
+						"au",
+						"auto"
+					],
+					[
+						"nav",
+						"navbar-inverse"
+					],
+					[
+						"xx",
+						"xx"
+					],
+					[
+						"cu",
+						"cubeSize"
+					],
+					[
+						"GL_L",
+						"GL_LIGHT0"
+					],
+					[
+						"el",
+						"elliptic_cylinder"
+					],
+					[
+						"marg",
+						"margin-top"
+					],
+					[
+						"top",
+						"topbar"
+					],
+					[
+						"cyl",
+						"cylinderSize"
+					],
+					[
+						"cy",
+						"cylinderSize"
+					],
+					[
+						"glP",
+						"glPushMatrix"
+					],
+					[
+						"aut",
+						"autor"
+					],
+					[
+						"auto",
+						"autor_knjiga"
+					],
+					[
+						"N",
+						"NULL"
+					],
+					[
+						"sh",
+						"shrinkCoeff"
+					],
+					[
+						"h",
+						"heightCoeff"
+					],
+					[
+						"he",
+						"height"
+					],
+					[
+						"hei",
+						"heightCoeff"
+					],
+					[
+						"rad",
+						"radCoeff"
+					],
+					[
+						"curre",
+						"currentTimeMillis"
+					],
+					[
+						"day",
+						"dayCounter"
+					],
+					[
+						"is",
+						"isLeapYear"
+					],
+					[
+						"da",
+						"daysInCurrentMonth"
+					],
+					[
+						"le",
+						"leapYearCounter"
+					],
+					[
+						"sun",
+						"sundaysCounter"
+					],
+					[
+						"pa",
+						"pairs"
+					],
+					[
+						"max",
+						"maxRootLeaf"
+					],
+					[
+						"tr",
+						"trav"
+					],
+					[
+						"print",
+						"printPaths"
+					],
+					[
+						"node",
+						"node"
+					],
+					[
+						"so",
+						"so_far"
+					],
+					[
+						"ten",
+						"tenths"
+					],
+					[
+						"num",
+						"num_to_words"
+					],
+					[
+						"tem",
+						"temp_c"
+					],
+					[
+						"maxS",
+						"maxSequenceLength"
+					],
+					[
+						"re",
+						"result"
+					],
+					[
+						"ca",
+						"carry"
+					],
+					[
+						"temp",
+						"temporarySum"
+					],
+					[
+						"numb",
+						"number"
+					],
+					[
+						"S",
+						"System"
+					],
+					[
+						"nu",
+						"numOfDigits"
+					],
+					[
+						"ma",
+						"matrixNumber"
+					],
+					[
+						"row",
+						"rowCounter"
+					],
+					[
+						"di",
+						"diagonalLeftToRight"
+					],
+					[
+						"hor",
+						"horizontalProduct"
+					],
+					[
+						"fo",
+						"fourth"
+					],
+					[
+						"matri",
+						"matrixNumber"
+					],
+					[
+						"matr",
+						"matrixNumber"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"geo",
+						"geo_val"
+					],
+					[
+						"inter",
+						"intersectPoint"
+					],
+					[
+						"intes",
+						"intersectVerticalLine"
+					],
+					[
+						"No",
+						"NoPoints"
+					],
+					[
+						"real",
+						"real_close"
+					],
+					[
+						"eval",
+						"eval_prog"
+					],
+					[
+						"Line",
+						"LineSegment"
+					],
+					[
+						"ran",
+						"randomIndex"
+					],
+					[
+						"cone",
+						"cone_height"
+					],
+					[
+						"gl",
+						"glColor3d"
+					],
+					[
+						"YM",
+						"YMAX"
+					],
+					[
+						"XM",
+						"XMAX"
+					],
+					[
+						"core",
+						"Corel_length"
+					],
+					[
+						"co",
+						"corel_supported"
+					],
+					[
+						"rot",
+						"rotirajZ(double kut)"
+					],
+					[
+						"st",
+						"stozac(double r, double h, int n)"
+					],
+					[
+						"elip",
+						"elipse"
+					],
+					[
+						"ro",
+						"rotirajX(double kut)"
+					],
+					[
+						"roi",
+						"rotirajZ(double kut)"
+					],
+					[
+						"rotiraj",
+						"rotirajX(double kut)"
+					],
+					[
+						"eli",
+						"elipse"
+					],
+					[
+						"po",
+						"pomakni(double px, double py)"
+					],
+					[
+						"valjak",
+						"valjak_drawer"
+					],
+					[
+						"valj",
+						"valjak_drawer"
+					],
+					[
+						"sto",
+						"stozac_drawer"
+					],
+					[
+						"o",
+						"ox"
+					],
+					[
+						"x",
+						"x"
+					],
+					[
+						"kugla",
+						"kugla_drawer"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/var/www/magento-playground/magento_tutsplus/app/code/local/TutsPlus/Catalog/Model/Category.php",
+					"settings":
+					{
+						"buffer_size": 225,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/var/www/magento-playground/magento_tutsplus/app/code/local/TutsPlus/Demo/Helper/Customer.php",
+					"settings":
+					{
+						"buffer_size": 143,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/var/www/magento-playground/magento_tutsplus/app/code/core/Mage/Api/Model/Acl.php",
+					"settings":
+					{
+						"buffer_size": 2565,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/Ruby/Ruby.sublime-build",
+			"command_palette":
+			{
+				"height": 252.0,
+				"selected_items":
+				[
+					[
+						"trail",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"gist",
+						"Gist: Create Public Gist"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"mage",
+						"MagentoIntel: Goto Class"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"trai",
+						"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"php",
+						"PHPIntel: Scan Project"
+					],
+					[
+						"PhpI",
+						"PHPIntel: Scan Project"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Color Picker: Insert Color"
+					]
+				],
+				"width": 705.0
+			},
+			"console":
+			{
+				"height": 118.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/media/D414DDF114DDD718/down/The.Hunger.Games.BDRip.XviD-COCAIN/the.hunger.games.bdrip.xvid-cocain.nfo",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/Block/Configurable.php",
+				"/var/www/magento/app/design/frontend/default/tutsplus/layout/tutsplus.xml",
+				"/var/www/magento/app/design/frontend/default/tutsplus/template/tutsplus/configurable.phtml",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/Helper/Data.php",
+				"/var/www/magento/app/design/frontend/default/tutsplus/local.xml",
+				"/var/www/magento/app/code/core/Mage/Page/Block/Html/Head.php",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/etc/config.xml",
+				"/var/www/magento/app/design/frontend/default/tutsplus/template/local.xml",
+				"/var/www/magento/app/design/frontend/default/tutsplus/layout/local.xml",
+				"/var/www/magento/app/design/frontend/default/tutsplus/templates/tutsplus/configurable.phtml",
+				"/var/www/magento/app/design/frontend/default/tutsplus/templates/local.xml",
+				"/var/www/magento/app/design/frontend/base/default/layout/tag.xml",
+				"/var/www/magento/app/code/core/Mage/Core/Block/Template.php",
+				"/var/www/magento/app/design/frontend/base/default/layout/page.xml",
+				"/var/www/magento/app/design/frontend/base/default/template/page/html/header.phtml",
+				"/var/www/magento/app/code/core/Mage/Page/Block/Html/Header.php",
+				"/var/www/magento/app/design/frontend/base/default/template/page/3columns.phtml",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/controllers/IndexController.php",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/controllers/ProductController.php",
+				"/var/www/magento/test.php",
+				"/var/www/magento/lib/Varien/Object.php",
+				"/var/www/magento/app/code/core/Mage/Page/Block/Html.php",
+				"/var/www/magento/app/design/frontend/base/default/layout/customer.xml",
+				"/var/www/magento/app/code/core/Mage/Core/Controller/Front/Action.php",
+				"/var/www/magento/app/code/core/Mage/Customer/controllers/AccountController.php",
+				"/var/www/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php",
+				"/var/www/magento/app/code/core/Mage/Cms/Model/Mysql4/Block.php",
+				"/var/www/magento/app/code/core/Mage/Cms/Model/Resource/Block.php",
+				"/var/www/magento/app/code/core/Mage/Cms/Model/Block.php",
+				"/var/www/magento/app/code/core/Mage/Cms/etc/config.xml",
+				"/var/www/magento/app/code/core/Mage/Api2/Model/Acl/Global/Rule/Tree.php",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/Model/Observer.php",
+				"/var/www/magento/var/log/customer.log",
+				"/var/www/magento/app/code/local/TutsPlus/Customer/Helper/Data.php",
+				"/var/www/magento/app/code/core/Mage/Customer/Helper/Data.php",
+				"/var/www/magento/app/code/core/Mage/Core/Helper/Abstract.php",
+				"/var/www/magento/app/code/local/TutsPlus/Customer/etc/config.xml",
+				"/var/www/magento/app/code/local/TutsPlus/Catalog/etc/config.xml",
+				"/var/www/magento/app/code/local/TutsPlus/Catalog/Model/Category.php",
+				"/var/www/magento/app/etc/modules/TutsPlus_Customer.xml",
+				"/var/www/magento/app/etc/modules/TutsPlus_Catalog.xml",
+				"/var/www/magento/app/etc/modules/TutsPlus_Demo.xml",
+				"/var/www/magento/app/Mage.php",
+				"/var/www/magento/app/code/local/Mage/Catalog/Model/Category.php",
+				"/var/www/magento/app/code/local/Catalog/Model/Category.php",
+				"/var/www/magento/app/code/core/Mage/Catalog/Model/Category.php",
+				"/var/www/magento/lib/Varien/Autoload.php",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/Model/Product.php",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/Helper/Customer.php",
+				"/var/www/magento/index.php",
+				"/var/www/magento/app/code/core/Mage/Catalog/etc/config.xml",
+				"/var/www/magento/app/code/core/Mage/Customer/Model/Session.php",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/etc",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/etc/",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/Helper",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/sql",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/controllers",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/Product.php",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/Blocks",
+				"/var/www/magento/app/code/local/TutsPlus/Demo/Model",
+				"/home/luka/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/var/www/magento/app/etc/modules/Training_Animal.xml",
+				"/var/www/magento/app/code/core/Mage/Widget/etc/config.xml",
+				"/var/www/magento/app/code/local/Training/Animal/controllers/adminhtml/AnimalController.php",
+				"/var/www/magento/app/code/core/Mage/Poll/etc/system.xml",
+				"/home/luka/documents/SQUAT_CHALLENGE.txt",
+				"/var/www/magento/app/code/community/Cm/RedisSession/Model/Session.php",
+				"/var/www/magento/app/code/local/Training/Animal/etc/config.xml",
+				"/var/www/magento/app/code/local/Training/Animal/controllers/adminhtml/IndexController.php",
+				"/var/www/magento/app/code/core/Mage/Core/Model/Resource/Setup.php",
+				"/var/www/magento/app/code/core/Mage/CatalogInventory/sql/cataloginventory_setup/install-1.6.0.0.php",
+				"/var/www/magento/app/code/local/Test/Module/controllers/RenderController.php",
+				"/var/www/magento/app/code/core/Mage/Core/Model/Layout.php",
+				"/home/luka/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/var/www/magento/app/code/core/Mage/Adminhtml/controllers/SalesController.php",
+				"/var/www/magento/app/code/core/Mage/Adminhtml/controllers/System/Config/System/StorageController.php",
+				"/var/www/magento/app/code/core/Mage/Admin/Model/Session.php",
+				"/var/www/magento/app/code/core/Mage/Widget/Block/Interface.php",
+				"/var/www/magento/app/code/core/Mage/Core/Block/Abstract.php",
+				"/var/www/magento/app/code/core/Mage/Eav/Model/Entity/Setup.php",
+				"/var/www/magento/app/code/core/Mage/Eav/Model/Attribute.php",
+				"/var/www/magento/app/code/core/Mage/Bundle/Model/Product/Attribute/Source/Price/View.php",
+				"/var/www/magento/.tags",
+				"/var/www/magento/app/code/core/Mage/Api2/Model/Resource/Setup.php",
+				"/home/luka/.config/sublime-text-2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/var/www/magento/app/etc/local.xml",
+				"/var/www/magento/app/etc/modules/Cm_RedisSession.xml",
+				"/var/www/magento/app/code/core/Mage/Core/Model/Store.php",
+				"/var/www/magento/app/code/local/Training/Animal/Model/Animal.php",
+				"/home/luka/.config/sublime-text-2/Packages/CTags/CTags.sublime-settings",
+				"/var/www/magento/cron.php",
+				"/var/www/magento/api.php",
+				"/var/www/magento/app/code/local/Training/Animal/Model/Mysql4/Animal.php",
+				"/var/www/magento/app/code/local/Test/Module/etc/config.xml",
+				"/var/www/magento/app/code/local/My/Mod/etc/config.xml",
+				"/home/luka/.config/sublime-text-2/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+				"/home/luka/.config/sublime-text-2/Packages/AdvancedNewFile/Default (Linux).sublime-keymap",
+				"/home/luka/.config/sublime-text-2/Packages/AdvancedNewFile/README.md",
+				"/home/luka/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/luka/.config/sublime-text-2/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/var/www/magento/test2.php",
+				"/var/www/magento/shell/indexer.php",
+				"/var/www/magento/app/code/core/Mage/Adminhtml/Block/Newsletter/Template/Edit/Form.php",
+				"/home/luka/.config/sublime-text-2/Packages/CTags/Default.sublime-keymap",
+				"/home/luka/.config/sublime-text-2/Packages/Alignment/Default (Linux).sublime-keymap",
+				"/var/www/magento/install.php",
+				"/home/luka/.config/sublime-text-2/Packages/User/trailing_spaces.sublime-settings",
+				"/home/luka/.config/sublime-text-2/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+				"/var/www/magento/app/code/local/Training/Animal/sql/training_animal_setup/Mysql4-install-0.1.1.php",
+				"/var/www/magento/app/code/local/Training/Animal/sql/training_animal_setup/Mysql4-install-0.1.1asd.php",
+				"/var/www/magento/app/code/local/Training/Animal/sql/training_animal_setup/Mysql4-install-0.1.0.php",
+				"/var/www/magento/lib/Varien/Data/Collection/Db.php",
+				"/var/www/magento/app/code/local/Training/Animal/Model/Mysql4/Animal/Collection.php",
+				"/var/www/magento/app/code/local/Test/Module/controllers/ModelsController.php",
+				"/var/www/magento/app/etc/modules/First_Module.xml",
+				"/home/luka/.config/sublime-text-2/Packages/SublimePHPIntel/SublimePHPIntel.sublime-settings",
+				"/var/www/magento/app/code/community/Phoenix/Moneybookers/Block/Form.php",
+				"/var/www/magento/app/code/community/Phoenix/Moneybookers/etc/config.xml",
+				"/var/www/magento/app/etc/modules/Mage_All.xml",
+				"/var/www/magento/app/code/core/Mage/Adminhtml/etc/config.xml",
+				"/var/www/magento/app/code/community/First/Module/etc/config.xml",
+				"/var/www/magento/app/code/core/Mage/Payment/Block/Form.php",
+				"/var/www/magento/skin/frontend/base/default/css/styles.css",
+				"/var/www/magento/app/code/local/First/Module/etc/config.xml",
+				"/var/www/magento/app/code/core/Mage/Cms/controllers/IndexController.php",
+				"/var/www/magento/app/code/core/Mage/Catalog/Model/Product/Website.php",
+				"/var/www/magento/skin/frontend/base/default/js/opcheckout.js"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"update",
+					"_customer",
+					"catalog",
+					"isAllowed",
+					"getFlatColums",
+					"key",
+					"auto",
+					"test_module",
+					"printLo",
+					"print",
+					"getChildren",
+					"category",
+					"function",
+					"= ",
+					"function",
+					"());\n",
+					"{\n",
+					"_under",
+					"_getData",
+					"getName",
+					"getInfoInstance",
+					"app(",
+					"getStore(",
+					"app",
+					"isInsta",
+					"versio",
+					"phpVer",
+					"phpversion",
+					"<!",
+					"		   		",
+					"display_err",
+					"\n	",
+					"AA",
+					":\n",
+					"”",
+					"“",
+					"mod",
+					"modes",
+					"M_PI",
+					"title-area",
+					"top-bar",
+					"crveno",
+					"20",
+					"}",
+					"{",
+					"66",
+					"87",
+					"border",
+					"FFFFFF",
+					"ffffff",
+					"border",
+					"backgrou",
+					"glC",
+					"glCo",
+					"glC",
+					"tekstura",
+					"color",
+					"fairly",
+					"open",
+					"suggestion",
+					"ctrl",
+					"Iconify",
+					"A S",
+					"A+",
+					"mini",
+					"min",
+					"ctrl+h",
+					"brand",
+					"navbar",
+					"navbarS",
+					"navbar",
+					"form",
+					"<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>Ember Starter Kit</title>\n    <link rel=\"stylesheet\" href=\"css/bootstrap.css\">\n    <link rel=\"stylesheet\" href=\"css/normalize.css\">\n    <link rel=\"stylesheet\" href=\"css/style.css\">\n  </head>\n\n  <body>\n\n    <form class=\"form-horizontal\" role=\"form\">\n      <div class=\"form-group\">\n        <label for=\"inputEmail1\" class=\"col-lg-2 control-label\">Email</label>\n        <div class=\"col-lg-10\">\n          <input type=\"email\" class=\"form-control\" id=\"inputEmail1\" placeholder=\"Email\">\n        </div>\n      </div>\n      <div class=\"form-group\">\n        <label for=\"inputName\" class=\"col-lg-2 control-label\">Name</label>\n        <div class=\"col-lg-10\">\n          <input type=\"password\" class=\"form-control\" id=\"inputPassword1\" placeholder=\"Password\">\n        </div>\n      </div>\n      <div class=\"form-group\">\n        <div class=\"col-lg-offset-2 col-lg-10\">\n          <div class=\"checkbox\">\n            <label>\n              <input type=\"checkbox\"> Remember me\n            </label>\n          </div>\n        </div>\n      </div>\n      <div class=\"form-group\">\n        <div class=\"col-lg-offset-2 col-lg-10\">\n          <button type=\"submit\" class=\"btn btn-default\">Sign in</button>\n        </div>\n      </div>\n    </form>\n\n    <script src=\"js/libs/jquery-1.9.1.js\"></script>\n    <script src=\"js/libs/handlebars-1.0.0.js\"></script>\n    <script src=\"js/libs/ember-1.0.0.js\"></script>\n    <script src=\"http://cdnjs.cloudflare.com/ajax/libs/showdown/0.3.1/showdown.min.js\"></script>\n    <script src=\"js/app.js\"></script>\n    <script src=\"http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.1.0/moment.min.js\"></script>\n\n  </body>\n</html>",
+					"Name",
+					"brand",
+					"navbar",
+					"Freezer",
+					"recursion_guard",
+					"},\n",
+					"end",
+					"line",
+					"getContext",
+					";\n",
+					"stop",
+					"newGame",
+					"stop",
+					"start_game",
+					"profile"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"training_animal",
+					"\"",
+					"PI",
+					")",
+					"("
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/var/www/magento-playground/magento_tutsplus"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/var/www/magento-playground/magento_tutsplus/app/code/local/TutsPlus/Catalog/Model/Category.php",
+							"settings":
+							{
+								"buffer_size": 225,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 1,
+							"file": "/var/www/magento-playground/magento_tutsplus/app/code/local/TutsPlus/Demo/Helper/Customer.php",
+							"settings":
+							{
+								"buffer_size": 143,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										79,
+										79
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/var/www/magento-playground/magento_tutsplus/app/code/core/Mage/Api/Model/Acl.php",
+							"settings":
+							{
+								"buffer_size": 2565,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 897.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 29.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 398.0
+			},
+			"position": "0,1,0,0,0,0,1,1366,724,1366,768",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"magecoreblocktemplate",
+						"app/code/core/Mage/Core/Block/Template.php"
+					],
+					[
+						"accountcontroller",
+						"app/code/core/Mage/Customer/controllers/AccountController.php"
+					],
+					[
+						"varien",
+						"lib/Varien/Object.php"
+					],
+					[
+						"varie",
+						"app/code/core/Mage/Core/Model/Session/Abstract/Varien.php"
+					],
+					[
+						"mage",
+						"app/Mage.php"
+					],
+					[
+						"catalogetcconfig",
+						"app/code/core/Mage/Catalog/etc/config.xml"
+					],
+					[
+						"magecustomermodelsession",
+						"app/code/core/Mage/Customer/Model/Session.php"
+					],
+					[
+						"libvarienau",
+						"lib/Varien/Autoload.php"
+					],
+					[
+						"magecoremodelsessionabstractvar",
+						"app/code/core/Mage/Core/Model/Session/Abstract/Varien.php"
+					],
+					[
+						"mysql",
+						"app/code/core/Mage/CatalogInventory/sql/cataloginventory_setup/install-1.6.0.0.php"
+					],
+					[
+						"magecoreresourceset",
+						"app/code/core/Mage/Core/Model/Resource/Setup.php"
+					],
+					[
+						"appcodecoremageeavmodelattr",
+						"app/code/core/Mage/Eav/Model/Attribute.php"
+					],
+					[
+						"mageeavmodelentityset",
+						"app/code/core/Mage/Eav/Model/Entity/Setup.php"
+					],
+					[
+						"anima",
+						"app/code/local/Training/Animal/Model/Mysql4/Animal.php"
+					],
+					[
+						"modulescm",
+						"app/etc/modules/Cm_RedisSession.xml"
+					],
+					[
+						"appetclo",
+						"app/etc/local.xml"
+					],
+					[
+						"test",
+						"test.php"
+					],
+					[
+						"appcodelocal",
+						"app/code/local/Test/Module/etc/config.xml"
+					],
+					[
+						"te",
+						"test.php"
+					],
+					[
+						"appcodelocalanim",
+						"app/code/local/Training/Animal/Model/Animal.php"
+					],
+					[
+						"tes",
+						"test.php"
+					],
+					[
+						"animalcolle",
+						"app/code/local/Training/Animal/Model/Mysql4/Animal/Collection.php"
+					],
+					[
+						"animal",
+						"app/code/local/Training/Animal/Model/Animal.php"
+					],
+					[
+						"varien/data/coll",
+						"lib/Varien/Data/Collection/Db.php"
+					],
+					[
+						"mage/catalog/model/category",
+						"app/code/core/Mage/Catalog/Model/Category.php"
+					],
+					[
+						"varieno",
+						"lib/Varien/Object.php"
+					],
+					[
+						"mage/core/model/store",
+						"app/code/core/Mage/Core/Model/Store.php"
+					],
+					[
+						"index",
+						"index.php"
+					],
+					[
+						"sty",
+						"skin/frontend/default/modern/css/styles.css"
+					],
+					[
+						"base/default/css",
+						"app/design/frontend/base/default/template/customer/form/changepassword.phtml"
+					],
+					[
+						"indexc",
+						"app/code/core/Mage/Cms/controllers/IndexController.php"
+					],
+					[
+						"controller",
+						"app/code/core/Mage/Adminhtml/controllers/IndexController.php"
+					],
+					[
+						"contr",
+						"js/scriptaculous/controls.js"
+					],
+					[
+						"db.",
+						"lib/Varien/Data/Collection/Db.php"
+					],
+					[
+						"autoload",
+						"lib/Varien/Autoload.php"
+					],
+					[
+						"auto",
+						"lib/Varien/Autoload.php"
+					],
+					[
+						"apps/inde",
+						"apps/circular_table/index.html"
+					],
+					[
+						"inde",
+						"index.html"
+					],
+					[
+						"js",
+						"js/app.js"
+					],
+					[
+						"p",
+						"table.php"
+					],
+					[
+						"re",
+						"README.md"
+					],
+					[
+						"",
+						"haarcascade_eye.xml"
+					],
+					[
+						"nav",
+						"nav-bar.html"
+					],
+					[
+						"html",
+						"apps/rg_openCV/usage.html"
+					],
+					[
+						"apps/rg_opencv/inde",
+						"apps/rg_openCV/index.html"
+					],
+					[
+						"gr",
+						"graphics.php"
+					],
+					[
+						"face",
+						"face_detection.py"
+					],
+					[
+						"cam",
+						"cam_effects.py"
+					],
+					[
+						"link",
+						"links.html"
+					],
+					[
+						"usa",
+						"usage.html"
+					],
+					[
+						"st",
+						"style/style.css"
+					],
+					[
+						"gaus",
+						"opencv/samples/python2/gaussian_mix.py"
+					],
+					[
+						"cpp",
+						"contours1.cpp"
+					],
+					[
+						"php",
+						"table.php"
+					],
+					[
+						"ho",
+						"css/hover-min.css"
+					],
+					[
+						"css",
+						"css/hover-min.css"
+					],
+					[
+						"ind",
+						"index.html"
+					],
+					[
+						"_mo",
+						"app/views/movies/_movies.html.erb"
+					],
+					[
+						"app",
+						"app/assets/javascripts/application.js"
+					],
+					[
+						"movi",
+						"app/models/movie.rb"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"rou",
+						"config/routes.rb"
+					],
+					[
+						"view",
+						"app/views/movies/view.html.erb"
+					],
+					[
+						"con",
+						"app/controllers/movies_controller.rb"
+					],
+					[
+						"about",
+						"about.html"
+					],
+					[
+						"port",
+						"portfolio-item.html"
+					],
+					[
+						"faq",
+						"faq.html"
+					],
+					[
+						"abou",
+						"about.html"
+					],
+					[
+						"he",
+						"header.html"
+					],
+					[
+						"head",
+						"header.html"
+					],
+					[
+						"na",
+						"nav-bar.html"
+					],
+					[
+						"op",
+						"open_gl.php"
+					],
+					[
+						"gra",
+						"graphics.php"
+					],
+					[
+						"em",
+						"apps/ember-markdown/index.html"
+					],
+					[
+						"s",
+						"shapes.h"
+					],
+					[
+						"ap",
+						"rg/applets.php"
+					],
+					[
+						"foun",
+						"css/foundation.css"
+					],
+					[
+						"jana",
+						"jana.c"
+					],
+					[
+						"in",
+						"index.html"
+					],
+					[
+						"ide",
+						"index.html"
+					],
+					[
+						"dr",
+						"drvo_svjetlo.c"
+					],
+					[
+						"e",
+						"Euler10.java"
+					],
+					[
+						"18",
+						"18.rb"
+					],
+					[
+						"eu",
+						"Euler11.java"
+					],
+					[
+						"txt",
+						"matrix.txt"
+					],
+					[
+						"9",
+						"Euler9.java"
+					],
+					[
+						"sem",
+						"seminari.html"
+					],
+					[
+						"sha",
+						"shapes.h"
+					],
+					[
+						"sphe",
+						"sphere.c"
+					],
+					[
+						"anemo",
+						"anemometer.c"
+					],
+					[
+						"spe",
+						"sphere.c"
+					],
+					[
+						"anem",
+						"anemometer.c"
+					],
+					[
+						"per",
+						"Persp.java"
+					],
+					[
+						"m",
+						"MT2D.java"
+					],
+					[
+						"gks",
+						"GKS.java"
+					],
+					[
+						"gk",
+						"GKS.java"
+					],
+					[
+						"ku",
+						"Kugla.java"
+					],
+					[
+						"pe",
+						"Persp.java"
+					],
+					[
+						"databa",
+						"config/database.yml"
+					],
+					[
+						"cube",
+						"CubeRotationOverLine.java"
+					],
+					[
+						"or",
+						"Ortho.java"
+					],
+					[
+						"mt3",
+						"MT3D.java"
+					],
+					[
+						"cu",
+						"CubeRotation.java"
+					],
+					[
+						"jan",
+						"JAnimacija2.java"
+					],
+					[
+						"gks_z",
+						"GKS_zrcaljenje.java"
+					],
+					[
+						"gkse",
+						"GKSElipse.java"
+					],
+					[
+						"mt",
+						"MT2D.java"
+					],
+					[
+						".ja",
+						"GKSElipse_mult.java"
+					],
+					[
+						"zrca",
+						"GKS_zrcaljenje.java"
+					],
+					[
+						"ht",
+						"elipse.html"
+					],
+					[
+						"el",
+						"Elipse.java"
+					],
+					[
+						"_",
+						"app/views/layouts/_head.html.erb"
+					],
+					[
+						"sinu",
+						"sinus.html"
+					],
+					[
+						"para",
+						"parabola.html"
+					],
+					[
+						".html",
+						"mreza.html"
+					],
+					[
+						"gksp",
+						"GKSParabola.java"
+					],
+					[
+						"sin",
+						"Sinus.java"
+					],
+					[
+						"gem",
+						"rails/Contacts/Gemfile"
+					],
+					[
+						"boot",
+						"css/bootstrap.css"
+					],
+					[
+						"no",
+						"css/normalize.css"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 274.0,
+			"status_bar_visible": true,
+			"window_id": 192,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
