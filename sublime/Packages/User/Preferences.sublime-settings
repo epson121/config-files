@@ -13,7 +13,8 @@
 	"phoenix_dirty_bottom_bar_red": true,
 	"phoenix_sidebar_tree_small": true,
 	"phoenix_solid_current_tab": true,
-	"theme": "Phoenix Dark.sublime-theme",
+	// this line stardet to render sublime unresponsive so it is commented out
+	//"theme": "Phoenix Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trainling_white_space_on_save": true
 }
