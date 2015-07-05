@@ -1,18 +1,34 @@
-	[
+[
+{ "keys": ["ctrl+e"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
+{ "keys": ["alt+w"], "command": "move_to", "args": {"to": "bol", "extend": false} },
+{ "keys": ["alt+e"], "command": "move_to", "args": {"to": "eol", "extend": false} },
+{ "keys": ["alt+l"], "command": "move", "args": {"by": "characters", "forward": true} },
+{ "keys": ["alt+k"], "command": "move", "args": {"by": "characters", "forward": false} },
+{ "keys": ["f5"], "command": "build" },
+{ "keys": ["ctrl+t"], "command": "side_bar_new_file2" },
+{ "keys": ["f2"], "command": "side_bar_rename" },
+{ "keys": ["ctrl+alt+f"], "command": "side_bar_find_files_path_containing" },
+{ "keys": ["alt+f1"], "command": "goto_documentation" },
+{ "keys": ["alt+shift+a"], "command": "alignment" },
+{ "keys": ["alt+shift+c"], "command": "rebuild_tags" },
+{ "keys": ["alt+shift+v"], "command": "navigate_to_definition"},
+{ "keys": ["ctrl+i"], "command": "magento_insert_class"},
+{ "keys": ["shift+alt+n"], "command": "advanced_new_file_new"},
+{ "keys": ["shift+alt+m"], "command": "magento_create_module"},
+{ "keys": ["ctrl+up"], "command": "scroll_lines", "args": {"amount": 5.0} },
+{ "keys": ["ctrl+down"], "command": "scroll_lines", "args": {"amount": -5.0} },
+{ "keys": ["alt+ctrl+c"], "command": "clone_file" },
 
-	{ "keys": ["ctrl+e"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
-	{ "keys": ["alt+w"], "command": "move_to", "args": {"to": "bol", "extend": false} },
-	{ "keys": ["alt+e"], "command": "move_to", "args": {"to": "eol", "extend": false} },
-	{ "keys": ["alt+l"], "command": "move", "args": {"by": "characters", "forward": true} },
-	{ "keys": ["alt+k"], "command": "move", "args": {"by": "characters", "forward": false} },
-	{ "keys": ["f5"], "command": "build" },
-	{ "keys": ["ctrl+t"], "command": "side_bar_new_file2" },
-	{ "keys": ["f2"], "command": "side_bar_rename" },
-	{ "keys": ["ctrl+alt+f"], "command": "side_bar_find_files_path_containing" },
-	{ "keys": ["alt+f1"], "command": "goto_documentation" },
-	{ "keys": ["alt+shift+a"], "command": "alignment" },
-	{ "keys": ["alt+shift+c"], "command": "rebuild_tags" },
-	{ "keys": ["alt+shift+v"], "command": "navigate_to_definition"},
-	{ "keys": ["shift+alt+n"], "command": "advanced_new_file_new"}
+    // my package
+    { "keys": ["alt+shift+o"], "command": "magento_open_from_magento_path", "args": {} },
 
+
+    { "keys": ["ctrl+shift+e"], "command": "expand_selection_to_quotes" },
+
+    // up and down to empty lines
+    {"keys": ["alt+up"], "command": "move", "args": {"by": "stops", "empty_line": true, "forward": false}},
+    {"keys": ["alt+down"], "command": "move", "args": {"by": "stops", "empty_line": true, "forward": true}},
+
+    // move by one to the right
+    { "keys": ["ctrl+space"], "command": "move", "args": {"by": "characters", "forward": true} }
 ]
